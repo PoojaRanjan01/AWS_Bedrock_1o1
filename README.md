@@ -2,7 +2,7 @@
 This is a demonstration of building an application using LLMs provided by Bedrock service.
 
 Travel Assistant
-Version : 0.0.0
+Version : 1.0.0
 
 What is this repository for?
 This is demonstration of building applications using services provided by AWS Bedrock.
